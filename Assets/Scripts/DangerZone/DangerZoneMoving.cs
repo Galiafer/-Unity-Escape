@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class DangerZoneMoving : MonoBehaviour
 {
-    [SerializeField] private float _timeToStart = 2f;
+    [SerializeField] private float _timeToStart = 5f;
 
     private const float SPEED_REDUCER = 1.5f;
 
